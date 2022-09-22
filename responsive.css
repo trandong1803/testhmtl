@@ -104,6 +104,7 @@
         align-items: center;
     }
 }
+/*mobile and tablet*/
 @media (max-width:1023px){
     .main .container{
         width: calc(100% - 150px);
